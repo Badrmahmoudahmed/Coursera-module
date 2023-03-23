@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+}
+#header-nav{
+  background-color: grey;
+  border-radius: 0;
+  border: none;
+  padding: 10px;
+}
+#brand-name{
+  font-size: 2em;
+  font-weight: bold;
+  color: black;
+}
+
+#dropmenu li{
+  font-size: 1.5em;
+  border: solid 1px black;
+  background-color: white;
+}
+h1{
+  margin-bottom: 60px ;
+}
+h1 , h2{
+  font-weight: bold;
+  color: black;
+  padding: 30px 10px 10px;
+}
+p {
+  font-size: 1.5em;
+  color: black;
+  padding: 20px;
+}
+.container .row{
+  margin: auto;
+}
+#s{
+  background-color: white;
+}
+.seprator{
+  background-color: gray;
+  margin-bottom: 60px;
+}
+#backbutton{
+text-decoration: none; 
+font-size: 1.5em; 
+float: right;
+background-color: rgb(182, 143, 84);
+padding: 20px;
+margin-top: -25px;
+color: white;
+}
